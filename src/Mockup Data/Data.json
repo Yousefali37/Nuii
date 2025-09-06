@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "flavor": "Caramelised Salted Almond & New Zealand Honey",
+        "image": "Ice Cream Nuii (1).png",
+        "titleColor": "rgb(102, 68, 51)",
+        "subTitleColor": "rgb(102, 68, 51)",
+        "captionColor": "rgb(120, 85, 68)",
+        "background": "rgb(245, 225, 190)",
+        "beforeBackground": "rgb(240, 190, 150)",
+        "hoverColor": "rgb(235, 180, 140)"
+    },
+    {
+        "id": 1,
+        "flavor": "Almond & Java Vanilla",
+        "image": "Ice Cream Nuii (2).png",
+        "titleColor": "rgb(51, 68, 41)",
+        "subTitleColor": "rgb(51, 68, 41)",
+        "captionColor": "rgb(70, 87, 60)",
+        "background": "rgb(245, 220, 180)",
+        "beforeBackground": "rgb(220, 190, 160)",
+        "hoverColor": "rgb(210, 180, 150)"
+    },
+    {
+        "id": 2,
+        "flavor": "Cookies & Idaho Valley Mint",
+        "image": "Ice Cream Nuii (6).png",
+        "titleColor": "rgb(120, 40, 30)",
+        "subTitleColor": "rgb(120, 40, 30)",
+        "captionColor": "rgb(140, 60, 50)",
+        "background": "rgb(250, 240, 210)",
+        "beforeBackground": "rgb(235, 210, 180)",
+        "hoverColor": "rgb(225, 200, 170)"
+    },
+    {
+        "id": 3,
+        "flavor": "White Chocolate & Scandinavian Mountain Cranberries",
+        "image": "Ice Cream Nuii.png",
+        "titleColor": "rgb(40, 40, 40)",
+        "subTitleColor": "rgb(40, 40, 40)",
+        "captionColor": "rgb(60, 60, 60)",
+        "background": "rgb(240, 200, 170)",
+        "beforeBackground": "rgb(230, 180, 150)",
+        "hoverColor": "rgb(220, 170, 140)"
+    }
+]
